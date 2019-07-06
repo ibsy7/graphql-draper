@@ -21,5 +21,5 @@ It often happens that you, say, as an entrepeneur, learn some programming - some
 
 Now, to take it to the next level - say, to run an online marketplace - you absolutely have to learn the data store part. Because for things like authentication - for your website to have multiple users who can login - and an updated catalog - you need a more powerful data store, there's no way you can do that with static text files or some plain text files holding your data.
 
-So we're building a service with a nice front end - input forms, some selection - that make it easy for you to set up a data back end and start working with it. Now you have enough power at your fingertips to set up an marketplace and have people use it, just like that.
+So we're building a service with a nice front end - input forms, some selection - that make it easy for you to set up a data back end and start working with it. Now you have enough power at your fingertips to set up an marketplace and have people use it, just like that. If you don't have the budget to hire a database person and you don't understand the available data stores, your project is dead. With our service, it's enough enough for you to understand and run on your own, without hiring anybody else - just your knowledge of JavaScript, and our service, is enough to create a marketplace or something and go to town.
 
